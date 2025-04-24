@@ -28,7 +28,7 @@ jobs:
         pyinstaller --onefile --windowed --icon=icon.png --name BoothDownloader booth_downloader.py
         
     - name: Upload artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: BoothDownloader
         path: dist/BoothDownloader.exe 
