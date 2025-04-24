@@ -1,3 +1,0 @@
-([('BoothDownloader',
-   '/Users/drjin/크롤링 부스/dist/BoothDownloader',
-   'EXECUTABLE')],)
